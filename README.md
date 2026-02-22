@@ -6,12 +6,16 @@
 👥 Team Members:
 
 S.Bharghavi
+
 M.Lalitha Devi
+
 N.Tejaswi
+
 G.Sesha Venkata Saketh Ram
+
 N.Durga Mahendra
 
-📝 Project Description: DocSpot is a user-friendly appointment booking platform designed for seamless interaction between patients and healthcare providers. It allows patients to search for doctors, book appointments in real-time, attend video consultations, and receive digital prescriptions. Doctors can manage their availability, view bookings, and update profiles. An admin panel enables user and appointment monitoring.
+📝 Project Description:  DocSpot is a user-friendly appointment booking platform designed for seamless interaction between patients and healthcare providers. It allows patients to search for doctors, book appointments in real-time, attend video consultations, and receive digital prescriptions. Doctors can manage their availability, view bookings, and update profiles. An admin panel enables user and appointment monitoring.
 
 The application is built using the MERN stack (MongoDB, Express.js, React.js, Node.js) with integrated online payments via Razorpay.
 
@@ -23,6 +27,7 @@ Real-time appointment booking and cancellation
 Payment gateway integration via Razorpay
 Doctor profile management and availability setup
 Admin dashboard to manage users
+
 🛠 Technology Stack:
 
 Layer	Tools & Frameworks
@@ -44,6 +49,7 @@ API Handling	Axios
 -------------------------------------------------------------------------------------------
 
 📽 Demo Video: 📁 Included in the Demo Video/ folder.
+
 It showcases:
 
 Folder structure
@@ -64,10 +70,15 @@ Tested on Chrome, Edge, and Firefox
 🔏 Sign-off:
 
 Submitted By:
+
 N.Durga Mahendra
+
 S.Bharghavi
+
 M.Lalitha Devi
+
 N.Tejaswi
+
 G.Sesha Venkata Saketh Ram
 
 Submitted Date: 22-02-2026
